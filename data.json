@@ -1,4 +1,4 @@
-{"list": [
+[
     {
         "id": "0021gjmqp8p927b2",
         "firstName": "Tiou",
@@ -30,7 +30,7 @@
         "is_premium": true,
         "photo_timestamp": 1311081845000
     },
-        {
+    {
         "id": "0023nr7t2hjwnjr",
         "firstName": "Sonia",
         "lastName": "Abadi",
@@ -54,9 +54,8 @@
         "name": "Sonia Abadi",
         "is_premium": true,
         "photo_timestamp": 1351873233000
-        },
-
-        {
+    },
+    {
         "id": "0023nr7t2hjwnjr",
         "firstName": "Titi",
         "lastName": "Abadi",
@@ -80,6 +79,5 @@
         "name": "Sonia Abadi",
         "is_premium": true,
         "photo_timestamp": 1351873233000
-        }
-    ]
-}
+    }
+]
